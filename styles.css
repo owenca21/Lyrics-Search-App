@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: #276b6d;
+    background-color: #afd8af;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
   }
@@ -44,7 +44,7 @@
     height: 100%;
     width: 100%;
     /* Adjust this to your preference */
-    background-color: rgba(0, 225, 255, 0.288);
+    background-color: #ff6dbd62;
   }
   
   /* Select everything in the header */
@@ -75,20 +75,20 @@
     position: absolute;
     top: 2px;
     right: 2px;
-    background-color: #a0146a;
+    background-color: #c3fac8;
     border: 0;
     border-radius: 50px;
-    color: #fff;
+    color: #000000;
     font-size: 16px;
     padding: 13px 30px;
   }
   
   /* Injecting the btn class via JS */
   .btn {
-    background-color: #3946ff;
+    background-color: #ff6dbdab;
     border: 0;
     border-radius: 10px;
-    color: #fff;
+    color: #000000;
     padding: 4px 10px;
   }
   
